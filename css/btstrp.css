@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+}
+header {
+    position: relative;
+    background-position: center;
+}
+h1{
+    position: relative;
+    background-position: center;
+    text-align: center;
+}
+.btn {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  border: none;
+  border-radius: 300px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.btn-lg {
+  padding: 15px 30px;
+}
+.btn-sm {
+  padding: 7.5px 15px;
+}
